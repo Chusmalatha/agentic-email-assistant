@@ -2,6 +2,8 @@
 
 An AI-powered email assistant that drafts and automatically saves professional emails based on user instructions. The application is built using [Streamlit](https://streamlit.io/), [Pydantic AI](https://ai.pydantic.dev/), and [Groq](https://groq.com/) (using the `llama-3.3-70b-versatile` model).
 
+**Live App:** [agentic-email-assistant](https://agentic-email-assistant-a.streamlit.app/)
+
 ## Features
 - **Interactive Web UI**: Streamlit interface to input instructions and view results.
 - **AI Agent Orchestration**: Uses Pydantic AI to generate emails and decide when to call saving tools.
