@@ -12,7 +12,7 @@ An AI-powered email assistant that drafts and automatically saves professional e
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Chusmalatha/agentic-email-assistant.git
 cd email-agent
 ```
 
